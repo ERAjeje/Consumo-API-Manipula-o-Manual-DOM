@@ -1,5 +1,5 @@
 # Consumo-API-Manipula-o-Manual-DOM
-Trabalho realizado para o bootcamp IGTI de Desenvolvedor FullStack. Utiliza javascript puro para manipução do com e consumo de API.
+Trabalho realizado para o bootcamp IGTI de Desenvolvedor FullStack. Utiliza javascript puro para manipução do DOM e consumo de API.
 O sistema consulta os dados baixados da API e realiza um filtro a partir do que for digitado no campo de input.
 
 ## Tecnologias Utilizadas
