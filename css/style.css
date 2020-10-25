@@ -1,0 +1,12 @@
+.person {
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 2px 2px lightgray;
+}
